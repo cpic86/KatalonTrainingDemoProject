@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Script test</description>
+   <name>Environment Profile Demo Mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c633b1a2-f6a1-40b6-b2b6-3f253fff356e</testCaseGuid>
+</TestCaseEntity>
